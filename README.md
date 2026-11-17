@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sp-anderson
-- 👀 I’m interested in starting a new career in software development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on LinkedIn at https://www.linkedin.com/in/steven-anderson-a2337562/
 
